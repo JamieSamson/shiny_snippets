@@ -1,5 +1,5 @@
 ####################################################################
-##AAn editable 'shopping cart' for Shiny
+##An editable 'shopping cart' for Shiny
 ####################################################################
 
 ## Packages to load ##

@@ -1,0 +1,13 @@
+name: url_grabber
+title: url_grabber
+username:
+account: jamiesamson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7049976
+bundleId: 6315788
+url: https://jamiesamson.shinyapps.io/url_grabber/
+when: 1663579563.16563
+lastSyncTime: 1663579563.16565
+asMultiple: FALSE
+asStatic: FALSE
